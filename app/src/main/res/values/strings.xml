@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotQuiteBinaryFiles</string>
+    <string name="title_conversion">Conversion</string>
+    <string name="title_process">Process</string>
+    <string name="title_history">History</string>
+    <string name="file_error">File could not be found</string>
+    <string name="preference_file_key">au.edu.swin.sdmd.preferences</string>
+    <string name="last_input">last_input</string>
+    <string name="convert">Convert</string>
+
+</resources>
